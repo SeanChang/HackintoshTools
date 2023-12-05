@@ -1,5 +1,5 @@
 ---
-title: macOS Sonoma
+title: macOS-Ventura
 date: 2023-12-05
 background: bg-[#52ace2]
 label: macOS 14
@@ -19,8 +19,8 @@ Hackintosh Instructions & Tutorials {.cols-1}
 ### Notes
 Shortcut | Action
 |:------
-The current version of the Mac operating system is macOS 14 "Sonoma".|
-Helpful tutorials to install or upgrade this version of the macOS on Intel and AMD PCs include:|
+The previous version of the Mac operating system is macOS 13 "Ventura".|
+Guides to install this version of the macOS on PCs include:|
 {.shortcuts}
 
 
