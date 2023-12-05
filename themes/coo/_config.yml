@@ -3,14 +3,9 @@ recent_posts_limits: 4
 
 # The categories and order displayed on the home page
 index_categories:
-  - Programming
-  - Toolkit
-  - Operating System
-  - Linux Command
-  - Python
-  - Database
-  - Keyboard Shortcuts
-  - Other
+  - Hackintosh Instructions & Tutorials & Videos
+  - Hackintosh Compatible Computers, Parts & Drivers
+  - Hackintosh Support Communities
 
 # Home recommended posts
 index_recommends:

@@ -7,7 +7,7 @@ tags:
     - 
     - 
 categories:
-    - Keyboard Shortcuts
+    - Hackintosh Support Communities
 intro: |
     A visual cheat-sheet for the 31 keyboard shortcuts found in Skype
 ---
